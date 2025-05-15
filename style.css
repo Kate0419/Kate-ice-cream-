@@ -4,12 +4,17 @@ img {
 	max-width: 199px;
 }
 
-body{background-color: #FFCDD2;}
+body{background-color: #FFCDD2; font-family:serif;}
 
 #ChocolateTag{ 
-	background-color: "brown";
 
-}
+	background-color: #a06400;}
+
+#MintChipTag{
+	background-color: #a6ff99;}
+#DoughTag{
+	background-color: #d2b26d;}
+
 
 
 
